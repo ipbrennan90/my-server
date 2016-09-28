@@ -1,0 +1,24 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "simple node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipbrennan90/my-server.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "myserver"
+  ],
+  "author": "Ian Brennan <ian@barbershop.io> (http://barbershop.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipbrennan90/my-server/issues"
+  },
+  "homepage": "https://github.com/ipbrennan90/my-server#readme"
+}
